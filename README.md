@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+[Click here to enter](https://fred-imdb.netlify.com/#/)
+
 ## Available Scripts
 
 In the project directory, you can run:
