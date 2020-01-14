@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-[Click here to enter](https://fred-imdb.netlify.com/#/)
+[Click here to enter](https://fred-imdb.netlify.com/#/movie/in_theaters/1)
 
 ## Available Scripts
 
